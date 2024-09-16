@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1726523979,
+	"version": 1726526093,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,6 +24,10 @@
 		"images/sinelight-sheet0.png",
 		"images/playerthree-sheet0.png",
 		"images/hearts.png",
+		"images/quietplayerone-sheet0.png",
+		"images/quietplayerone-sheet1.png",
+		"images/quietplayertwo-sheet0.png",
+		"images/quietplayerface.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
